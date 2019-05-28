@@ -1,1 +1,6 @@
 H:\Visual Studio 2015\Projects\CursoGit\CursoGit\bin\Debug\CursoGit.exe.config
+H:\visual studio 2015\Projects\CursoGit\CursoGit\bin\Debug\CursoGit.exe
+H:\visual studio 2015\Projects\CursoGit\CursoGit\bin\Debug\CursoGit.pdb
+H:\visual studio 2015\Projects\CursoGit\CursoGit\obj\Debug\CursoGit.csprojResolveAssemblyReference.cache
+H:\visual studio 2015\Projects\CursoGit\CursoGit\obj\Debug\CursoGit.exe
+H:\visual studio 2015\Projects\CursoGit\CursoGit\obj\Debug\CursoGit.pdb
