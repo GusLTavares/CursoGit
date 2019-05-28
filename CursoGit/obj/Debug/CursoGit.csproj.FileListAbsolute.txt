@@ -1,1 +1,2 @@
 H:\Visual Studio 2015\Projects\CursoGit\CursoGit\bin\Debug\CursoGit.exe.config
+H:\visual studio 2015\Projects\Curso\CursoGit\bin\Debug\CursoGit.exe.config

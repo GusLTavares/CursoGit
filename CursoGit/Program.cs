@@ -9,14 +9,15 @@ namespace CursoGit
     class Program
     {
 
-
+        public string Hello()
+        {
+            return "Hello World!";
+        }
         //Menu
 
 
         static void Main(string[] args)
         {
-            //Call
-            Console.WriteLine("Hello World, first commit");
             Console.ReadKey();
 
         }
